@@ -1,7 +1,10 @@
 CAB302 Semester 1 Assignement
 EJ Akinsanmi, Jaewon Seo & Phi Long Nguyen
 # electronic-asset-trading
+# Report
+[Requirements, detailed_design and sprintplan.docx](https://github.com/n10008918/electronic-asset-trading/files/10374029/Requirements.detailed_design.and.sprintplan.docx)
 
+# Installation
 Downloads
 To run successfully run and test the application you will need the following installed:
 
