@@ -37,7 +37,7 @@ Setup and Start-up
 Logged in as user1 which belong to org00001 
 ![5](https://user-images.githubusercontent.com/81293394/211366069-935091f9-1691-490f-8833-440741863f2f.PNG)
 
-Error message show becasue orgnisation 1(org00001) owns an asset1 so we cannot buy asset1
+Error message shown becasue orgnisation 1(org00001) owns an asset1 so we cannot buy asset1
 ![image](https://user-images.githubusercontent.com/81293394/211366334-af07d126-da39-4c0a-b139-00f78f243790.png)
 
 Buy asset10, quantity of 50 
