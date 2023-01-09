@@ -1,7 +1,7 @@
 CAB302 Semester 1 Assignement
 EJ Akinsanmi, Jaewon Seo & Phi Long Nguyen
 # electronic-asset-trading
-# Report
+# Well Documented Requirement Document (Requirement, Priorities & Sprint Plan) 
 [Requirements, detailed_design and sprintplan.docx](https://github.com/n10008918/electronic-asset-trading/files/10374029/Requirements.detailed_design.and.sprintplan.docx)
 
 # Installation
